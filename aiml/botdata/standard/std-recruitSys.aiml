@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="DLUTRR"/>
+<meta name="language" content="CH"/>
+
+<category>
+<pattern>你们学校好不好啊？</pattern>
+<template>大连理工大学是985，双一流高校呢，非常好了</template>
+</category>
+
+<category>
+<pattern>学校的学习风气怎么样啊？</pattern>
+<template>有一句在大连广泛流传的话叫："学在大工"。平时自习室里总有同学在自习，考试前自习室图书馆都找不到座位呢</template>
+</category>
+
+<category>
+<pattern>你们学校宿舍条件好不好？</pattern>
+<template>好，4人间，上床下桌，有独立卫生间。</template>
+</category>
+
+<category>
+<pattern>伙食怎么样啊？</pattern>
+<template>学校食堂的伙食很好，想吃什么口味的都有。</template>
+</category>
+
+<category>
+<pattern>有大米吃吗？</pattern>
+<template>有的</template>
+</category>
+
+    <category>
+        <pattern>学校自习室资源怎么样？</pattern>
+        <template>
+           自习室数量非常多，除了预约占用以外可以自由使用，开放时间基本为早到晚
+        </template>
+    </category>
+
+    <category>
+        <pattern>学校图书馆条件怎么样？</pattern>
+        <template>
+            请访问我校图书馆官网：
+	http://lib.dlut.edu.cn/
+        </template>
+    </category>
+
+    <category>
+        <pattern>宿舍有没有阳台？</pattern>
+        <template>
+            大部分宿舍配有阳台，小部分没有阳台的宿舍面积会相应增加
+        </template>
+    </category>
+
+    <category>
+        <pattern>晒被子方不方便？</pattern>
+        <template>
+            学生除了可以在宿舍阳台上晒被子之外也可以在公共走廊以及在花园设有专门晾晒场所
+        </template>
+    </category>
+
+    <category>
+        <pattern>怎么提供热水?</pattern>
+        <template>
+           宿舍楼以及教学区图书馆都有温开水供应
+        </template>
+    </category>
+
+    <category>
+        <pattern>请问你们学校师资力量怎么样？</pattern>
+        <template>
+           学校现有教职工4002人，其中专任教师2511人；学校有中国科学院和中国工程院院士12人、瑞典皇家工程院院士1人，兼职教师中的两院院士40人，国务院学位委员会学科评议组成员11人等，具体可参见学校官网介绍https://www.dlut.edu.cn/xxgk/xxjj.htm
+        </template>
+    </category>
+
+    <category>
+        <pattern>我孩子1米9，床够大吗？</pattern>
+        <template>
+            寝室床的规格是190*90
+        </template>
+    </category>
+
+    <category>
+        <pattern>床多大？</pattern>
+        <template>
+            寝室床的规格是190*90
+        </template>
+    </category>
+
+    <category>
+        <pattern>一个寝室多少人住?</pattern>
+        <template>
+           一般是四人寝
+        </template>
+    </category>
+
+    <category>
+        <pattern>有独立卫浴吗?</pattern>
+        <template>
+           有独立卫生间，没有独立浴室。学校设有公共浴室供学生使用
+        </template>
+    </category>
+    <category>
+        <pattern>学校周围交通方便吗？</pattern>
+        <template>
+           学校周围交通都很方便，出门就可以做到公交，完全满足日常生活的需要。
+        </template>
+    </category>
+    <category>
+        <pattern>学校社团活动都有什么？</pattern>
+        <template>
+	学校拥有丰富的社团活动，有文学社、书法社等文学爱好者的聚集地，有羽毛球社、网球社、乒乓球社等体育爱好者的天堂，还有中英文辩论协会、轮滑社、漫研社等等社团，只要你想到的社团这里都有，如果没有，你也可以通过召集一群志同道合的朋友，申请一个新的社团！
+        </template>
+    </category>
+    <category>
+        <pattern>学校奖学金政策怎么样？</pattern>
+        <template>
+            学校奖学金政策公平、公正、公开，涉及到学习奖学金、社会工作奖学金、精神文明奖学金、文体活动奖学金、科技创新奖学金等各方面，只要努力，就一定可以得到！
+        </template>
+    </category>
+    <category>
+        <pattern>学校食堂有几个？</pattern>
+        <template>
+            凌水校区有五个食堂，开发区校区有一个食堂，盘锦校区一个食堂。
+        </template>
+    </category>
+    <category>
+        <pattern>学校食堂菜样丰富吗?</pattern>
+        <template>
+           学校食堂的菜样满足大部分学生的需求，并且学校食堂设有建议处，学生提议较多的菜样会酌情添加以满足学生需求。
+        </template>
+    </category>
+
+</aiml>
